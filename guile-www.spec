@@ -18,7 +18,7 @@ facilitate HTTP, URL and CGI programming.
 
 %description -l pl
 To jest biblioteka WWW dla Guile, czyli zestaw modu³ów Guile Scheme
-maj±cych za zadanie u³atawiæ programowanie HTTP, URL i CGI.
+maj±cych za zadanie u³atwiæ programowanie HTTP, URL i CGI.
 
 %prep
 %setup -q
