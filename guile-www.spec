@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Development/Languages/Scheme
 Source0:	ftp://ftp.gnu.org/pub/gnu/guile/%{name}-%{version}.tar.gz
+# Source0-md5:	134cc208f7b6fd30aa03bae90ce2f152
 URL:		http://www.gnu.org/software/guile/guile.html
 BuildRequires:	guile-devel
 Requires:	guile
