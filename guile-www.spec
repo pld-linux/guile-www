@@ -1,5 +1,5 @@
 Summary:	Guile WWW library
-Summary(pl):	Biblioteka WWW do Guile
+Summary(pl.UTF-8):   Biblioteka WWW do Guile
 Name:		guile-www
 Version:	1.1.1
 Release:	1
@@ -16,9 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is the Guile WWW library, a set of Guile Scheme modules to
 facilitate HTTP, URL and CGI programming.
 
-%description -l pl
-To jest biblioteka WWW dla Guile, czyli zestaw modu³ów Guile Scheme
-maj±cych za zadanie u³atwiæ programowanie HTTP, URL i CGI.
+%description -l pl.UTF-8
+To jest biblioteka WWW dla Guile, czyli zestaw moduÅ‚Ã³w Guile Scheme
+majÄ…cych za zadanie uÅ‚atwiÄ‡ programowanie HTTP, URL i CGI.
 
 %prep
 %setup -q
