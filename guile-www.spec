@@ -2,7 +2,7 @@ Summary:	Guile WWW library
 Summary(pl.UTF-8):	Biblioteka WWW do Guile
 Name:		guile-www
 Version:	1.1.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/Scheme
 Source0:	ftp://ftp.gnu.org/pub/gnu/guile/%{name}-%{version}.tar.gz
